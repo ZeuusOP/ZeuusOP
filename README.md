@@ -28,10 +28,7 @@ I'm passionate about combining data with decision-making, and I’m actively bui
 [![](https://visitcount.itsvg.in/api?id=ZeuusOP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
->>>Creative Profile Approach 
+>>> 
 <div align="center">
 
   ![snake gif](https://github.com/ZeuusOP/ZeuusOP/blob/output/github-snake.svg)
