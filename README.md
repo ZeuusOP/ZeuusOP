@@ -2,7 +2,7 @@
 
 
 
-Hello, I'm Mehul — an aspiring Business Analyst driven by a strong interest in transforming data into meaningful business insights.
+Hello, I'm Mehul — a Data Analyst driven by a strong interest in transforming data into meaningful business insights with strong AI , Automation and Prompting Skills.
 
 This GitHub profile serves as a curated space to showcase my learning journey, hands-on projects, and skills relevant to the field of business analytics. Here, you'll find:
 
